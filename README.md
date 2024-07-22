@@ -45,8 +45,10 @@ This program focused on the question, "How can eye-tracking technology be implem
 
 ### ▪️ Result
 #### Check the results. The results of the video can be checked through video.py.
-![heatmap](https://github.com/user-attachments/assets/369ca34c-da95-4efb-a800-cbbc5eda57c5)
-![graph](https://github.com/user-attachments/assets/d118616f-b8ef-426d-b3e1-0833746c3481)
+<p align="center">
+ ![heatmap](https://github.com/user-attachments/assets/369ca34c-da95-4efb-a800-cbbc5eda57c5)
+ ![graph](https://github.com/user-attachments/assets/d118616f-b8ef-426d-b3e1-0833746c3481)
+</p>
 <img width="958" alt="스크린샷 2024-07-22 오후 3 16 35" src="https://github.com/user-attachments/assets/eba505af-ea1c-4702-8cfc-edbc7f1ee439">
 
 
