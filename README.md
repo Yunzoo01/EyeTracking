@@ -28,7 +28,7 @@ This program focused on the question, "How can eye-tracking technology be implem
 
 ### ▪️ Calibration
 #### First of all, align your face with the designated frame of the camera and press the 's' key.
-<img width="743" alt="스크린샷 2024-07-22 오후 3 01 51" src="https://github.com/user-attachments/assets/b36311ca-55ab-43c1-8bfa-484de289407f">
+<img width="400" alt="스크린샷 2024-07-22 오후 3 01 51" src="https://github.com/user-attachments/assets/b36311ca-55ab-43c1-8bfa-484de289407f">
 
 #### When the red dot appears initially, follow the red dot with your eyes only, without moving your head.
 <img width="721" alt="스크린샷 2024-07-22 오후 3 01 34" src="https://github.com/user-attachments/assets/1fe53117-e96e-4334-a168-421b0b974529">
