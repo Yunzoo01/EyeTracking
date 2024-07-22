@@ -32,22 +32,22 @@ This program focused on the question, "How can eye-tracking technology be implem
 
 #### When the red dot appears initially, follow the red dot with your eyes only, without moving your head. Next, when the blue dot appears, follow the blue dot with both your head and eyes.
 <p align="center">
- <img width="350" alt="스크린샷 2024-07-22 오후 3 01 34" src="https://github.com/user-attachments/assets/1fe53117-e96e-4334-a168-421b0b974529">
- <img width="350" alt="스크린샷 2024-07-22 오후 3 01 42" src="https://github.com/user-attachments/assets/9f40e2df-40b9-49c2-aea3-d559d92f3e0f">
+ <img width="300" alt="스크린샷 2024-07-22 오후 3 01 34" src="https://github.com/user-attachments/assets/1fe53117-e96e-4334-a168-421b0b974529">
+ <img width="300" alt="스크린샷 2024-07-22 오후 3 01 42" src="https://github.com/user-attachments/assets/9f40e2df-40b9-49c2-aea3-d559d92f3e0f">
 </p>
 
 ### ▪️ Gaze tracking
 #### Measure the gaze while looking at the designated photos and videos.
 <p align="center">
- <img width="350" alt="스크린샷 2024-07-22 오후 3 15 29" src="https://github.com/user-attachments/assets/13bd05fc-e516-4a91-a138-1188952d5a85">
- <img width="350" alt="스크린샷 2024-07-22 오후 3 14 29" src="https://github.com/user-attachments/assets/97ff1961-8d08-4306-bc12-cec90906d02a">
+ <img width="300" alt="스크린샷 2024-07-22 오후 3 15 29" src="https://github.com/user-attachments/assets/13bd05fc-e516-4a91-a138-1188952d5a85">
+ <img width="300" alt="스크린샷 2024-07-22 오후 3 14 29" src="https://github.com/user-attachments/assets/97ff1961-8d08-4306-bc12-cec90906d02a">
 </p>
 
 ### ▪️ Result
 #### Check the results. The results of the video can be checked through video.py.
 <p align="center">
-        <img width="350" src="https://github.com/user-attachments/assets/369ca34c-da95-4efb-a800-cbbc5eda57c5" alt="Heatmap">
-        <img width="350" src="https://github.com/user-attachments/assets/d118616f-b8ef-426d-b3e1-0833746c3481" alt="Graph">
+        <img width="300" src="https://github.com/user-attachments/assets/369ca34c-da95-4efb-a800-cbbc5eda57c5" alt="Heatmap">
+        <img width="300" src="https://github.com/user-attachments/assets/d118616f-b8ef-426d-b3e1-0833746c3481" alt="Graph">
 </p>
 <img width="700" alt="스크린샷 2024-07-22 오후 3 16 35" src="https://github.com/user-attachments/assets/eba505af-ea1c-4702-8cfc-edbc7f1ee439">
 
